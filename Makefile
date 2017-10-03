@@ -4,8 +4,7 @@
 #PROD_BUCKET=pathologylab.ctl.columbia.edu
 INTERMEDIATE_STEPS ?= make $(PUBLIC)/js/all.json
 
-JS_FILES=static/js/search.js static/js/srcswap.js static/js/alphalist.js static/js/bgswap.js \
-static/js/scrollshrink.js static/js/scrollspy.js static/js/widgets.js
+JS_FILES=themes/ctl-pathologylabs/static/js/
 
 all: eslint
 
