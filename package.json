@@ -1,0 +1,24 @@
+{
+  "name": "pathologylab-static",
+  "version": "0.0.0",
+  "description": "Hugo site for Pathology Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ccnmtl/pathologylab-static.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ccnmtl/pathologylab-static/issues"
+  },
+  "devDependencies": {
+    "eslint": "~4.8.0",
+    "eslint-config-scanjs": "^1.0.0-beta4",
+    "eslint-plugin-no-unsafe-innerhtml": "^1.0.16",
+    "eslint-plugin-security": "^1.4.0"
+  }
+}
