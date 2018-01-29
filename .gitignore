@@ -3,3 +3,8 @@ public
 ._.DS_Store
 ._*
 node_modules
+scratch/
+.ropeproject
+*.pyc
+ve/
+scrape/pathology/content/
