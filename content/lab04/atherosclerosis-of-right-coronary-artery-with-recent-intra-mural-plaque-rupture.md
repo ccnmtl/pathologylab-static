@@ -4,7 +4,7 @@ date: 2018-01-29
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 <h3>Slide Heart Path #1</h3>

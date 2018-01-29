@@ -4,7 +4,7 @@ date: 2018-01-29
 type: lab_activity
 lab_topic_number: 8
 lab_topic_name: "lab08"
-weight: 
+weight: 8
 ---
 <div class="entrybody">
 <div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/11435.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_11435.jpg" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_11435-thumb-170x238-2179.jpg" width="170" height="238" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/11435.svs/view.apml?%22" target="_blank">Open with WebViewer</a></div>

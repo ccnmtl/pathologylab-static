@@ -4,7 +4,7 @@ date: 2018-01-29
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 4
 ---
 <div class="entrybody">
 <h3>Slide #8</h3>

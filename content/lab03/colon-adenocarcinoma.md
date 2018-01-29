@@ -4,7 +4,7 @@ date: 2018-01-29
 type: lab_activity
 lab_topic_number: 3
 lab_topic_name: "lab03"
-weight: 
+weight: 4
 ---
 <div class="entrybody">
 <div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_GIpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
