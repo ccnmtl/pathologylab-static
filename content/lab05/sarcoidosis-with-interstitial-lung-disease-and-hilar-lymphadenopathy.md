@@ -9,9 +9,9 @@ weight: 1
 <div class="entrybody">
 <h3>Slide #14</h3>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_lungpath01.jpg" width="170" height="104" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p>This postmortem lung section came from a 28-year-old woman with a 3-year history of severe pulmonary sarcoidosis. She had developed diffuse reticulonodular densities in both lungs over a period of one and a half years. This was accompanied by increasing dyspnea and diminished exercise tolerance, despite steroid therapy. At her terminal admission she was hypoxic and hypercapneic despite intubation, and she suffered a cardiopulmonary arrest.<br clear="all"></p>
+
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_lungpath01.jpg" width="170" height="104" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 
