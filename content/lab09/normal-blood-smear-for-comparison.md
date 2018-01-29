@@ -7,8 +7,8 @@ lab_topic_name: "lab09"
 weight: 
 ---
 <div class="entrybody">
-						<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2007.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_hemepath7.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2007.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2007.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_hemepath7.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2007.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><br clear="all"></p>
 						
-						</div>
+</div>

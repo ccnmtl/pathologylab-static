@@ -7,11 +7,11 @@ lab_topic_name: "lab10"
 weight: 
 ---
 <div class="entrybody">
-						<h3>Slide #3481</h3>
+<h3>Slide #3481</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3481.jpg" width="170" height="126" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3481.jpg" width="170" height="126" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
-<p>The patient is a 70-year-old smoker with a past medical history significant for lung cancer, treated with a wedge resection in 1997, and emphysema. He presented to the ER with hemoptysis. Exam revealed a temperature of 100.2 F and <span class="caps">WBC </span>of 13.9. CT scan of the chest showed a mass in the left hilum. He was taken to the OR and a left pneumonectomy was performed. The patient's recovery was unremarkable and he was discharged home to Turkey.<br clear="all"></p>
+<p>The patient is a 70-year-old smoker with a past medical history significant for lung cancer, treated with a wedge resection in 1997, and emphysema. He presented to the ER with hemoptysis. Exam revealed a temperature of 100.2 F and<span class="caps">WBC</span>of 13.9. CT scan of the chest showed a mass in the left hilum. He was taken to the OR and a left pneumonectomy was performed. The patient's recovery was unremarkable and he was discharged home to Turkey.<br clear="all"></p>
 
 <h2>Questions</h2>
 
@@ -25,4 +25,4 @@ weight:
 
 
 						
-						</div>
+</div>
