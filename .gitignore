@@ -8,3 +8,4 @@ scratch/
 *.pyc
 ve/
 scrape/pathology/content/
+npm-debug.log

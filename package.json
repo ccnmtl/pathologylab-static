@@ -1,24 +1,32 @@
 {
-  "name": "pathologylab-static",
+  "name": "pathology-static",
   "version": "0.0.0",
   "description": "Hugo site for Pathology Lab",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-scss": "node-sass --output themes/ctl-pathologylab/static/css themes/ctl-pathologylab/static/scss/main.scss && postcss -u autoprefixer -r themes/ctl-pathologylab/static/css/main.css",
+    "build-scss": "nodemon -e scss -x 'npm run watch-scss'"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/ccnmtl/pathologylab-static.git"
   },
-  "author": "",
+  "author": "Center for Teaching and Learning, Columbia University",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/ccnmtl/pathologylab-static/issues"
   },
   "devDependencies": {
+    "autoprefixer": "^7.2.2",
     "eslint": "~4.8.0",
     "eslint-config-scanjs": "^1.0.0-beta4",
     "eslint-plugin-no-unsafe-innerhtml": "^1.0.16",
-    "eslint-plugin-security": "^1.4.0"
-  }
+    "eslint-plugin-security": "^1.4.0",
+    "node-sass": "^4.7.2",
+    "nodemon": "^1.12.5",
+    "postcss-cli": "^4.1.1"
+  },
+  "homepage": "https://github.com/ccnmtl/pathologylab-static#readme",
+  "dependencies": {}
 }

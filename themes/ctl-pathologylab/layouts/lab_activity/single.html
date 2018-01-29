@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+{{ partial "cover.html" . }}
+<div class="entrybody">
+    <div class="back-to-lab">
+        <a href="/{{ .Params.lab_topic_name }}/">&larr; Back to {{ range where ( where .Site.Pages "Type" "lab_topic" ) "Weight" .Params.lab_topic_number }}{{ .Title }}{{ end }}</a>
+    </div>
+</div>
+{{ partial "footer.html" . }}

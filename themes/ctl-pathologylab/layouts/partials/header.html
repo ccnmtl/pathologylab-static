@@ -1,0 +1,32 @@
+<!DOCTYPE html><!-- Histology Lab Website -->
+<html lang="en">
+<head>
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Params.shortTitle }}: {{ .Title }}{{ end }}</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {{ "<!-- The above 2 meta tags *must* come first in the head; any other head content must come *after* these tags -->" | safeHTML }}
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    {{ .Hugo.Generator }}
+
+    {{ "<!-- FontAwesome CSS -->" | safeHTML }}
+    <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css"
+        integrity="sha384-dNpIIXE8U05kAbPhy3G1cz+yZmTzA6CY8Vg/u2L9xRnHjJiAK76m2BIEaSEV+/aU"
+        crossorigin="anonymous">
+
+
+    {{ "<!-- Main CSS -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
+    
+    
+    {{ partial "meta.html" . }}
+
+    {{ partial "favicon.html" . }}
+
+</head>
+<body itemscope itemtype="http://schema.org/WebPage"{{ if .IsPage }} class="{{ .Type }}"{{ end }}>
+
+ {{ partial "navbar.html" . }}
+
+    <div id="maincontent" role="main" class="container">
+
