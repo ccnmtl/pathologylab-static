@@ -1,4 +1,10 @@
 {{ partial "header.html" . }}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Lab Topics</li>
+    </ol>
+</nav>
 
 <h1 class="display-3">{{ .Title }}</h1>
 <div class="entrybody">
