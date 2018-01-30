@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+{{ partial "cover.html" . }}
+
+<div class="entrybody">
+    <h2>Lab Activities</h2>
+    <ol>
+        {{ range sort ( where ( where .Site.Pages "Type" "lab_activity" ) "Params.lab_topic_number" .Params.Weight) "Weight" }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ol>
+</div>
+
+{{ partial "footer.html" . }}

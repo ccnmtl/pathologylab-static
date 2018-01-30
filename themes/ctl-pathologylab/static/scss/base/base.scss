@@ -1,0 +1,35 @@
+.slidepopup .thumbnail, .thumbnail {
+    margin: 0 1em 0.5em 0;
+    padding: 5px 11px 5px 5px;
+    border: 1px solid #ccc;
+    width: fit-content;
+    @include clearfix();
+}
+
+h1.display-3 {
+    margin: 0.5em 0em;
+    text-align: center;
+}
+
+.entrybody, .pagecontentbody { 
+    @include media-breakpoint-up(lg) {
+        margin: 0em 9em;
+    }
+
+    h2, h3 {
+        margin-top: 1.5em;
+
+        &:first-child {
+            margin-top: 0em;
+        }
+    }
+
+    img {
+        margin: 0em 0em 1em 1em;
+    }
+}
+
+div.back-to-lab {
+    margin: 2em 0em;
+}
+
