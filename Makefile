@@ -12,9 +12,9 @@ SCRIPT_FILE ?= convert.py
 MAX_COMPLEXITY ?= 10
 PY_DIRS ?= *.py tests --exclude virtualenv.py
 
-STAGING_URL=https://pathologylab.stage.ccnmtl.columbia.edu/
+STAGING_URL=https://pathologylab.stage.ctl.columbia.edu/
 PROD_URL=https://pathologylab.ctl.columbia.edu/
-STAGING_BUCKET=pathologylab.stage.ccnmtl.columbia.edu
+STAGING_BUCKET=pathologylab.stage.ctl.columbia.edu
 PROD_BUCKET=pathologylab.ctl.columbia.edu
 
 JS_FILES=themes/ctl-pathologylab/static/js/
