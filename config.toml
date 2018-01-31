@@ -1,4 +1,4 @@
-baseURL = "https://pathologyloab.ctl.columbia.edu/"
+baseURL = "https://pathologylab.ctl.columbia.edu/"
 languageCode = "en-us"
 title = "Pathology Lab Manual"
 theme = "ctl-pathologylab"
