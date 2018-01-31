@@ -7,9 +7,9 @@ lab_topic_name: "lab03"
 weight: 4
 ---
 <div class="entrybody">
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_GIpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p>A 70 year old man experienced bright red blood per rectum and was found to have iron deficiency anemia. He underwent colonoscopy that revealed a large, fungating, friable mass in the sigmoid colon. The patient underwent a sigmoid colectomy.<br clear="all"></p>
+
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_GIpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

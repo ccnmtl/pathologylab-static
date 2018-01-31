@@ -7,9 +7,9 @@ lab_topic_name: "lab08"
 weight: 1
 ---
 <div class="entrybody">
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_renal_case1.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p>A 30-year-old African-American male presents with full nephrotic syndrome including a 24-hour urine protein of 8.0 g/day, serum albumin 2.3 g/dL, and peripheral edema.<br clear="all"></p>
+
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_renal_case1.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 
