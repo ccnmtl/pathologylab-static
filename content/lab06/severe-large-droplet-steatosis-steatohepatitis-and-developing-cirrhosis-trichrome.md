@@ -4,10 +4,10 @@ date: 2018-01-29
 type: lab_activity
 lab_topic_number: 6
 lab_topic_name: "lab06"
-weight: 
+weight: 5
 ---
 <div class="entrybody">
-						<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_liverpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </div><div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_liverpath04.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_liverpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div><div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_liverpath04.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><br clear="all"><br>
 (1 = hematoxylin and eosin, 2 = trichrome)<br>
@@ -17,13 +17,13 @@ This autopsy microscopic slide comes from the liver of a 56 year old woman with 
 
 
 <ol>
-<li> What are the two major pathologic conditions affecting the liver in this case? </li>
-<li> What stage of disease is present in this liver? </li>
-<li> Can similar changes be seen in alcoholics? </li>
-<li> What are some other etiologies of large droplet fatty liver with or without steatohepatitis? </li>
-<li> Can you explain the patient's gastrointestinal hemorrhage in the absence of postmortem demonstration of bleeding esophageal varices? </li>
+<li> What are the two major pathologic conditions affecting the liver in this case?</li>
+<li> What stage of disease is present in this liver?</li>
+<li> Can similar changes be seen in alcoholics?</li>
+<li> What are some other etiologies of large droplet fatty liver with or without steatohepatitis?</li>
+<li> Can you explain the patient's gastrointestinal hemorrhage in the absence of postmortem demonstration of bleeding esophageal varices?</li>
 </ol>
 
 
 						
-						</div>
+</div>

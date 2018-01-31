@@ -4,12 +4,12 @@ date: 2018-01-29
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 7
 ---
 <div class="entrybody">
-						<h3>Slide #11</h3>
+<h3>Slide #11</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/6843.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_6843.jpg" width="170" height="139" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/6843.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/6843.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_6843.jpg" width="170" height="139" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/6843.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>This 64-year-old man had diabetes for 10 years, poorly controlled with oral hypoglycemics. He had developed multiple, non-healing ulcers on his foot and was admitted for debridement of these, but developed septic shock. Amputation of the left lower leg was required, and one week later he developed myocardial infarction, cerebellar haemorrhage with multiple infarcts and left lateral ventricular subarachnoid haemorrhage, which directly caused his death. At autopsy there was acute endocarditis of the mitral valve and a valvular ring abscess, though to have directly contributed to septic emboli to the coronary artery, central nervous system and (at autopsy) to the kidney (with a recent infarct on gross exam).</p>
 
@@ -38,4 +38,4 @@ weight:
 
 
 						
-						</div>
+</div>
