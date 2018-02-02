@@ -22,7 +22,7 @@ Katherine Ross</p>
 Maurice Matiz</p>
 
 <p><b>Web Site Development</b><br>
-Nick Buonincontri</br>
+Nick Buonincontri<br>
 Marc Raymond</p>
 
 <p>Special thanks to Pat Molholt, Associate Dean for Education and Scholarly Resources, and the <span class="caps">CORE</span> Resources Group for their assistance with this project.</p>
