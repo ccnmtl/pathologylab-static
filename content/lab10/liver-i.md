@@ -9,7 +9,7 @@ weight: 2
 <div class="entrybody">
 <h3>Slide #3471</h3>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3471.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_3471.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><span class="caps">C.C.</span>: Elevated serum liver tests 7 days after liver transplantion.<br>
 <span class="caps">H.P.I.</span>: 50-year-old man with a history of chronic hepatitis C underwent a living-related donor liver transplantation. On post-op day #4 his<span class="caps">LFT'</span>s were returning toward normal: T. Protein-5.3 (nl=6.7-8.6 g/dl), alb=3.2 (nl=4.1-5.3 g/dl), t.bili=5.4 (nl=0.3-1.30 mg/dl), d. bili=2.3 (nl=0.04-0.38 mg/dl),<span class="caps">AST</span>=70 (nl=12-38 U/L),<span class="caps">ALT</span>=202 (nl=7-41 U/L), Alk. phos.=55 (nl=33-96 U/L).<br>
