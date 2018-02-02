@@ -9,7 +9,7 @@ weight: 6
 <div class="entrybody">
 <p>An 80-year-old male presents with anemia, back pain, and acute renal failure. A renal biopsy is performed. Immunofluorescence reveals tubular casts that stain strongly for kappa light chain, with negative staining for lambda light chain.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2006.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_renal_case6.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2006.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2006.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_renal_case6.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2006.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 
