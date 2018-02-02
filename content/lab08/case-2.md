@@ -9,7 +9,7 @@ weight: 2
 <div class="entrybody">
 <p>A 66-year-old female is found to have a creatinine of 1.8 mg/dL and a 24 hour urine protein of 7.0 g/day.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2002.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_renal_case2.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2002.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_renal_case2.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

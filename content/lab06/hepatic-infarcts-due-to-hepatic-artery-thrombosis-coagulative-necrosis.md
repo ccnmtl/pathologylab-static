@@ -7,7 +7,7 @@ lab_topic_name: "lab06"
 weight: 6
 ---
 <div class="entrybody">
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3471.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_3471.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><span class="caps">C.C.</span>: Elevated serum liver tests 7 days after liver transplantion.<br>
 <span class="caps">H.P.I.</span>: 50-year-old man with a history of chronic hepatitis C underwent a living-related donor liver transplantation.<br>
