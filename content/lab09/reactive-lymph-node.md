@@ -9,7 +9,7 @@ weight: 1
 <div class="entrybody">
 <p>14-year-old male with recent history of pharyngitis presents with bilateral cervical lymphadenopathy.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_hemepath1.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_hemepath1.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

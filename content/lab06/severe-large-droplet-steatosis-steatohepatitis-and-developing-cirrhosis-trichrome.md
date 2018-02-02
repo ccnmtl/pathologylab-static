@@ -7,7 +7,7 @@ lab_topic_name: "lab06"
 weight: 5
 ---
 <div class="entrybody">
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_liverpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div><div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_liverpath04.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_liverpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div><div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_liverpath04.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><br clear="all"><br>
 (1 = hematoxylin and eosin, 2 = trichrome)<br>

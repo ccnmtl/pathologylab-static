@@ -11,7 +11,7 @@ weight: 4
 
 <p>A 26-year-old Parisian seamstress had been coughing up blood for a number of months and developed fluctuating fevers, shortness of breath and episodes of fainting. She refused medical help and was treated by a poet with patent medicines. Her symptoms increased and she died suddenly in the apartment of a friend.</p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_lungpath04.jpg" width="170" height="102" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_lungpath04.jpg" width="170" height="102" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>*<i>Note that this slide includes both lung tissue and a hilar lymph node.</i><br clear="all"></p>
 

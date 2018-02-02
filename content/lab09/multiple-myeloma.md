@@ -9,7 +9,7 @@ weight: 6
 <div class="entrybody">
 <p>This patient was a 51 year old woman with a known history of multiple myeloma, first diagnosed one year ago at an outside hospital. She had received several chemotherapy regimens but had residual multifocal vertebral compression fractures and lytic lesions. She was admitted to the emergency room of<span class="caps">CUMC</span> 2 days before death with weakness, worsening fatigue and non-productive course. During her hospital stay she had evidence of biventricular failure, a small pericardial effusion and required maximum pressors for hypotension. She developed a cardiopulmonary arrest on the second hospital day and could not be resuscitated.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2006.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_hemepath6.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2006.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2006.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_hemepath6.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2006.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 
