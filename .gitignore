@@ -10,3 +10,4 @@ ve/
 scrape/pathology/content/
 npm-debug.log
 local.mk
+*.log

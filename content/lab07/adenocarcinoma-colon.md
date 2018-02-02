@@ -17,7 +17,7 @@ weight: 5
 <ol>
 <li> What are the histological characteristics of this mass?</li>
 <li> What is the diagnosis?</li>
-<li> What is the relationship of this lesion to the one seen in<a href="/lab07/adenoma_colon.html">slide 4 (Adenoma)</a>? See description of morphologic and molecular changes.</li>
+<li> What is the relationship of this lesion to the one seen in<a href="/lab07/adenoma-colon.html">slide 4 (Adenoma)</a>? See description of morphologic and molecular changes.</li>
 </ol>
 
 
