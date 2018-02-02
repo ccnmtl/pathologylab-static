@@ -14,7 +14,7 @@ weight: 2
 On<span class="caps">POD</span>#7 his<span class="caps">LFT'</span>s were found to be worsening and his immunosuppressants were adjusted in response to acute rejection, diagnosed on liver biopsy.<br>
 On<span class="caps">POD</span>#11 his<span class="caps">LFT'</span>s showed T. Protein=4.2, alb=3.1, t. bili=37.7, d.bili=17.0,<span class="caps">AST</span>=572,<span class="caps">ALT</span>=1750, alk.phos.=311. Ammonia was 49 (nl=11-35 µM/L). Coags remained within normal limits. Diagnostic<span class="caps">USG</span>of the abdomen was performed but could not demonstrate the hepatic artery, despite repeated attempts. Hepatic artery thrombosis with liver infarct was presumed and the patient subsequently underwent a repeat, cadaveric liver transplantation.</p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3471.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3471.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

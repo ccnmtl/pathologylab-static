@@ -11,7 +11,7 @@ weight: 2
 
 <p>This 56-year-old man had a history of hypertension, hypercholesterolemia, type II diabetes mellitus and severe coronary artery disease, with prior surgery for multiple bypass grafts. He died of an acute myocardial infarction, characterised by acute chest pain with elevated cardiac enzymes (CK=485,<span class="caps">LDH</span>=216 and troponin 1=79.9)</p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3477.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3477.jpg" width="170" height="131" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/3477.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3477.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_3477.jpg" width="170" height="131" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/3477.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>This section shows epicardial fat, cross sections of the left anterior descending coronary artery (and several smaller arterial branches). The atherosclerotic plaque within the coronary artery shows several constituents, including cholesterol clefts, fibrosis and calcification. Note also the thrombotic material (with lines of Zahn--platelets and fibrin alternating with red blood cells) which was found in the aneurysmal dilatation of the aortic sinus (sinus of Valsalva). The wall around the thrombus shows haemorrhages and calcification.<br clear="all"></p>
 

@@ -9,7 +9,7 @@ weight: 1
 <div class="entrybody">
 <h3>Slide Heart Path #1</h3>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heart%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_heartpath01.jpg" width="170" height="119" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Heart%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heart%20Path%2001.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_heartpath01.jpg" width="170" height="119" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Heart%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Atherosclerosis of right coronary artery, with recent intra-mural plaque rupture.<br>
 This section is from the postmortem heart specimen of a 36 year old man who had undergone a left internal mammary artery -to-left anterior descending coronary artery bypass (CABG) two weeks before his death. Following the bypass, he was re-admitted two weeks later complaining of dyspnea on exertion and intermittent left shoulder pain. Evidence of continued cardiac dysfunction proceeded during his several day admission, with prolonged hypotension and anuric acute renal failure. At autopsy the heart showed myocardial infarcts of various microscopic ages and severe atherosclerosis of right and left coronary arteries. This section shows the right ventricular muscle and right coronary artery.<br clear="all"></p>

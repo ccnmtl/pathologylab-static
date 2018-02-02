@@ -9,7 +9,7 @@ weight: 4
 <div class="entrybody">
 <p>9-year-old male whose mother notices recent easy bruising and that his gums bleed when he brushes his teeth. The white blood cell count in the peripheral blood is 110K.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_hemepath4.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="http://pathologylab.ccnmtl.columbia.edu/assets/images/slide_hemepath4.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 
