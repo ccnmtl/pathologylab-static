@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "Pathology Lab Manual"
 theme = "ctl-pathologylab"
 googleAnalytics = "UA-51144540-16"
+
+[outputs]
+  home = ["HTML","RSS", "JSON"]

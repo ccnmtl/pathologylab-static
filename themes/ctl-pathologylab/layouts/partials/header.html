@@ -1,13 +1,18 @@
 <!DOCTYPE html><!-- Pathology Lab Website -->
+
 <html lang="en">
+
 <head>
+
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
+    
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {{ "<!-- The above 2 meta tags *must* come first in the head; any other head content must come *after* these tags -->" | safeHTML }}
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     {{ .Hugo.Generator }}
+
 
     {{ "<!-- FontAwesome CSS -->" | safeHTML }}
     <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css"
@@ -18,15 +23,17 @@
     {{ "<!-- Main CSS -->" | safeHTML }}
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
     
-    
     {{ partial "meta.html" . }}
 
     {{ partial "favicon.html" . }}
 
+    <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet">
+
 </head>
+
 <body itemscope itemtype="http://schema.org/WebPage"{{ if .IsPage }} class="{{ .Type }}"{{ end }}>
 
+ <div id="maincontent" role="main" class="container">
+ 
  {{ partial "navbar.html" . }}
-
-    <div id="maincontent" role="main" class="container">
 
