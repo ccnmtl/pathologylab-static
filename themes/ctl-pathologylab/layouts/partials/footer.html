@@ -1,20 +1,39 @@
-
-    </div><!-- /.container #maincontent -->
-
 <footer role="contentinfo">
-    <div class="container">
-        <hr />
-        <p class="text-center">Code licensed <a itemprop="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU GPLv3</a>, content <a itemprop="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a></p>
-    </div>
+
+    <p class="text-center">
+    Code licensed <a itemprop="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU GPLv3</a>, content <a itemprop="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>
+    </p>
+    
     <div class="d-print-block">
     <p role="presentation">Printed from: {{ if .IsHome }}{{ .Site.BaseURL }}{{ else }}{{ .Permalink }}{{ end }}</p>
     </div>
+    
+    <div class="row" style="margin-top: 3em;">
+    
+        <div class="col">
+        <a href="https://www.cumc.columbia.edu/education/physicians_surgeons" target="_blank"><img style="width: 60%;" src="{{ .Site.BaseURL }}img/logo-ps.svg" class="mx-auto d-block" alt="PS Logo"></a>
+        </div>
+        
+        <div class="col">
+        <a href="https://ctl.columbia.edu" target="_blank"><img style="width: 60%;"src="{{ .Site.BaseURL }}img/logo-ctl.svg" class="mx-auto d-block" alt="CTL Logo"></a>
+        </div>
+        
+    <div>
+    
 </footer>
 
+</div><!-- /.container #maincontent -->
+
 <!-- Javascript -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+<script src="{{ .Site.BaseURL }}js/lib/jquery.simplePagination.js"></script>
+<script src="{{ .Site.BaseURL }}js/lib/lunr.js"></script>
+<script src="{{ .Site.BaseURL }}js/src/search.js"></script>
 
 {{ if .Site.GoogleAnalytics }}
 {{ template "_internal/google_analytics.html" . }}

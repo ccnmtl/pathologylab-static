@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+{{ partial "cover.html" . }}
+<main class="page-content" id="content" aria-label="Content">
+<div class="container entrybody">
+    <div class="row">
+        <div class="form-group col">
+            <label for="q">
+                Search
+            </label>
+            <input class="form-control" type="search" id="q">
+        </div>
+    </div>
+    <nav class="pagination-holder" aria-label="Search results pages"></nav>
+    <div id="search-results"></div>
+    <nav class="pagination-holder" aria-label="Search results pages"></nav>
+</div>
+{{ partial "footer.html" . }}

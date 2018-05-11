@@ -17,7 +17,7 @@ PROD_URL=https://pathologylab.ctl.columbia.edu/
 STAGING_BUCKET=pathologylab.stage.ctl.columbia.edu
 PROD_BUCKET=pathologylab.ctl.columbia.edu
 
-JS_FILES=themes/ctl-pathologylab/static/js/
+JS_FILES=themes/ctl-pathologylab/static/js/src
 
 all: eslint
 
