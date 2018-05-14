@@ -24,8 +24,9 @@ h1.display-5
 	text-align: left;
 	color: white;
 	background-color: rgba($primary_color,1);
-	background-image: url("../img/logo_project.jpg");
+	background-image: url("../img/cells.png");
 	background-position: center center;
+    box-shadow: inset 5em 5em rgba(0,0,0,0.3);
 	background-size: 100%;
 	text-shadow: 1px 1px 1px rgba(black,1);
 }
