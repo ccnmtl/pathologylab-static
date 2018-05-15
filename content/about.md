@@ -16,7 +16,7 @@ Special Lecturer Department of Pathology and Cell Biology</p>
 <h2><span class="caps">CTL</span> Production Team</h2>
 
 <p><b>Executive Director</b><br>
-Katherine Ross</p>
+Catherine Ross</p>
 
 <p><b>Senior Director</b><br>
 Maurice Matiz</p>
