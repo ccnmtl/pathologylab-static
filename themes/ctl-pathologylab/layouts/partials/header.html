@@ -23,6 +23,9 @@
     {{ "<!-- Main CSS -->" | safeHTML }}
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
     
+    {{ "<!-- CSS for cookie policy -->" | safeHTML }}
+    <link rel="stylesheet" href="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.css" />
+
     {{ partial "meta.html" . }}
 
     {{ partial "favicon.html" . }}
