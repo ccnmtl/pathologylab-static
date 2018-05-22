@@ -5,5 +5,3 @@ type: lab_topic
 lab_topic_number: 4
 weight: 4
 ---
-<div class="entrybody">
-</div>

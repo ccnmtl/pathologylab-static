@@ -4,7 +4,7 @@ date: 2018-01-29
 type: page
 ---
 <div class="pagecontentbody">
-					<h2>Molecular and Cellular Pathophysiology</h2>
+<h2>Molecular and Cellular Pathophysiology</h2>
 
 
 <ol>
@@ -104,4 +104,4 @@ type: page
 </ol>
 
 
-					</div>
+</div>

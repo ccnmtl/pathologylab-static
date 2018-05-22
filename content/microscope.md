@@ -4,7 +4,7 @@ date: 2018-01-29
 type: page
 ---
 <div class="pagecontentbody">
-					<p>The following is intended to acquaint the student with the light microscope. The major parts of the instrument will be named and a method for the effective use of the microscope will be outlined. The comments apply to the Nikon student microscope but will apply directly, or with slight modification, to student instruments of other manufacturers.</p>
+<p>The following is intended to acquaint the student with the light microscope. The major parts of the instrument will be named and a method for the effective use of the microscope will be outlined. The comments apply to the Nikon student microscope but will apply directly, or with slight modification, to student instruments of other manufacturers.</p>
 
 <p>The microscope consists of a compound optical system (the objective lens and the ocular lens); a movable specimen support (the mechanical stage); an illumination system (the lamp and the condenser lens with its iris diaphragm). All the systems are attached to the microscope stand consisting of the base and arm.</p>
 
