@@ -14,11 +14,7 @@ In the laboratory, glass slides that are representative of major diseases will b
 This online resource can be accessed by clicking <a href="https://www1.columbia.edu/sec/itc/hs/medical/pathology/pathoatlas/index.html">here</a>.
 
 <h2>Instructors</h2>
-Jay Lefkowitch, MD Course Director
+Jay Lefkowitch, MD 
 Patrice Spitalnik, MD
 Charles Marboe, MD
-Roger Moreira, MD
-Deborah Sevilla, MD
-Barry Stokes, MD
-Leal Herlitz, MD
 </div>
