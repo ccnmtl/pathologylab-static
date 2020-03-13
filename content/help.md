@@ -14,5 +14,5 @@ type: page
 
 <h2>Remote Access</h2>
 
-<p>If you are trying to access the web slides from an off-campus location, you will need to install and run the <a href="http://www.cubhis.org/getting_started/vpn.html" target="_blank">Virtual Private Network</a> (<a href="http://www.cubhis.org/getting_started/vpn.html" target="_blank"><span class="caps">VPN</span></a>). <span class="caps">VPN </span>is a program that encrypts data before it is sent across a network.</p>
+<p>If you are trying to access the web slides from an off-campus location, you will need to install and run the <a href="https://cumcprod.service-now.com/kb?id=restricted_kb_article_view&sys_kb_id=edd5e6c61b4b2f009b698622dd4bcb40" target="_blank">Virtual Private Network</a> (<a href="https://cumcprod.service-now.com/kb?id=restricted_kb_article_view&sys_kb_id=edd5e6c61b4b2f009b698622dd4bcb40" target="_blank"><span class="caps">VPN</span></a>). <span class="caps">VPN </span>is a program that encrypts data before it is sent across a network.</p>
 </div>
