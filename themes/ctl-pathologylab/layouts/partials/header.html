@@ -5,7 +5,7 @@
 <head>
 
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
-    
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,14 +15,13 @@
 
 
     {{ "<!-- FontAwesome CSS -->" | safeHTML }}
-    <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css"
-        integrity="sha384-dNpIIXE8U05kAbPhy3G1cz+yZmTzA6CY8Vg/u2L9xRnHjJiAK76m2BIEaSEV+/aU"
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
         crossorigin="anonymous">
 
 
     {{ "<!-- Main CSS -->" | safeHTML }}
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
-    
+
     {{ "<!-- CSS for cookie policy -->" | safeHTML }}
     <link rel="stylesheet" href="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.css" />
 
@@ -37,6 +36,5 @@
 <body itemscope itemtype="http://schema.org/WebPage"{{ if .IsPage }} class="{{ .Type }}"{{ end }}>
 
  <div id="maincontent" role="main" class="container">
- 
- {{ partial "navbar.html" . }}
 
+ {{ partial "navbar.html" . }}
