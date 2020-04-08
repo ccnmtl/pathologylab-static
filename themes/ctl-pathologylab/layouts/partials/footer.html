@@ -31,9 +31,13 @@
   crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+
+{{ if eq .Type "search" }}
 <script src="{{ .Site.BaseURL }}js/lib/jquery.simplePagination.js"></script>
 <script src="{{ .Site.BaseURL }}js/lib/lunr.js"></script>
 <script src="{{ .Site.BaseURL }}js/src/search.js"></script>
+{{ end }}
+
 <!-- JS for cookie policy -->
 <script src="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.js"></script>    
 
