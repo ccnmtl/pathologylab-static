@@ -1,4 +1,4 @@
-pypandoc==1.4.0
+pypandoc==1.5
 
 scrapy==1.4.0
 flake8==3.8.1
