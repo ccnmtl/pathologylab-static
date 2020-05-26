@@ -1,6 +1,6 @@
 pypandoc==1.4.0
 
-scrapy==1.4.0
+scrapy==2.1.0
 flake8==3.8.1
 
 configparser==3.5.0
