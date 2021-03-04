@@ -11,7 +11,7 @@ weight: 3
 
 <p>This section of lung was obtained at the autopsy of a 62-year-old man who had been admitted with an acute myocardial infarction. During a two week hospitalisation he had developed several cardiac arrhythmias, left ventricular failure and chest X-ray evidence of pulmonary infiltrates. He became progressively hypoxic and suffered a cardiopulmonary arrest on the 12 th hospital day.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_lungpath05.jpg" width="170" height="127" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideLung_Path_05/" target="_blank"><img alt="" src="/assets/images/slide_lungpath05.jpg" width="170" height="127" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideLung_Path_05/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

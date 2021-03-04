@@ -9,7 +9,7 @@ weight: 3
 <div class="entrybody">
 <p>A 73 year-old woman underwent a screening colonoscopy, which found a polypoid mass in the ascending colon. The mass was resected using a snare around the stalk.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2004.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_GIpath04.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideGI_Path_04/" target="_blank"><img alt="" src="/assets/images/slide_GIpath04.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideGI_Path_04/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

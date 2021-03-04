@@ -7,7 +7,7 @@ lab_topic_name: "lab06"
 weight: 3
 ---
 <div class="entrybody">
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2003.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_liverpath03.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_03/" target="_blank"><img alt="" src="/assets/images/slide_liverpath03.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_03/" target="_blank">Open with WebViewer</a></div>
 
 <p>Needle biopsy.<br>
 This 23 year old man came in to the clinic with very vague symptoms, no referable history and mild fever. His serum liver tests showed total bilirubin of 6.5 mg/dl (normal &lt; 1.0) and mild elevations of aminotransferases and alkaline phosphatase. Initial ultrasound of the bile ducts, liver and abdomen did not provide a definitive diagnosis, so a liver biopsy was performed to evaluate "FUO--fever of unknown origin").<br clear="all"></p>

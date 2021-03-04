@@ -7,7 +7,7 @@ lab_topic_name: "lab06"
 weight: 2
 ---
 <div class="entrybody">
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2002.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_liverpath02.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_02/" target="_blank"><img alt="" src="/assets/images/slide_liverpath02.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_02/" target="_blank">Open with WebViewer</a></div>
 
 <p>(Grade 2, Stage 4), Explant specimen.<br>
 This 61 year old woman had a long history of transfusion-related chronic hepatitis C and went into clinical liver failure approximately 10 months prior to liver transplantation at this medical center. The explant liver appeared grossly cirrhotic and contained two hepatocellular carcinomas (one of which is seen on this slide, along with the cirrhosis).<br clear="all"></p>
