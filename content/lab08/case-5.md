@@ -9,7 +9,7 @@ weight: 5
 <div class="entrybody">
 <p>A 38-year-old male presents with acute renal failure and a creatinine of 3.0 mg/dL. Urinalysis reveals<span class="caps">WBC'</span>s, no<span class="caps">RBC'</span>s, and only 1+ proteinuria. Past medical history includes an upper respiratory tract infection 2 weeks earlier, which was treated with antibiotics.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2005.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_renal_case5.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/sliderenal_path_05/" target="_blank"><img alt="" src="/assets/images/slide_renal_case5.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/sliderenal_path_05/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

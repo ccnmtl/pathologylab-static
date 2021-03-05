@@ -1,0 +1,73 @@
+#map {
+    height: 800px;
+    position: relative;
+    background: black;
+}
+
+.leaflet-container a {
+    color: #2c4955 !important;
+}
+
+.leaflet-control-zoomslider-body {
+    width: 20px !important;
+}
+
+.leaflet-control-zoomslider .leaflet-control {
+    margin-left: 10px !important;
+}
+.leaflet-control-pan {
+    margin-left: 15px !important;
+}
+
+.slides-instructions {
+    position: fixed;
+    top: 1rem;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 1040;
+    margin: auto;
+    padding: 0.875rem 1rem;
+    border: 0;
+    border-radius: 0.25rem;
+    background-color: #666666;
+    color: #efefef;
+    width: 25rem;
+    display: none;
+}
+#map:focus {
+    box-shadow: 0 0 10px rgb(0, 123, 255);
+    outline: 1px solid rgb(0, 123, 255 / 25%) !important;
+}
+#map:focus .slides-instructions {
+    display: block;
+    animation: opacity-fade-out 1s forwards;
+    animation-delay: 2s;
+}
+@keyframes opacity-fade-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    display: none !important;
+  }
+}
+
+a.leaflet-control-pan-up:focus {
+    outline: 2px solid white !important;
+}
+a.leaflet-control-pan-down:focus {
+    outline: 2px solid white !important;
+}
+a.leaflet-control-pan-right:focus {
+    outline: 2px solid white !important;
+}
+a.leaflet-control-pan-left:focus {
+    outline: 2px solid white !important;
+}
+a.leaflet-control-zoomslider-in:focus {
+    outline: 2px solid white !important;
+}
+a.leaflet-control-zoomslider-out:focus {
+    outline: 2px solid white !important;
+}

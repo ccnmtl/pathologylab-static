@@ -11,7 +11,7 @@ weight: 6
 
 <p>The patient is a 67-year-old woman who presented in 1997 with abdominal pain and "feeling full" after meals. CT scan had demonstrated a mass, which was biopsied, leading to a partial gastrectomy. She returned to the OR in 1998 for resection of tumor metastases from the abdominal wall and liver and again in 1999 for resection of metastases in the pancreas and liver. In the summer of 2000, additional local intra-abdominal recurrences were resected. The recurrent intraperitoneal tumor is the source for the tissue on this slide.<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3476.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_3476.jpg" width="170" height="126" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/3476.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slide3476/" target="_blank"><img alt="" src="/assets/images/slide_3476.jpg" width="170" height="126" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slide3476/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

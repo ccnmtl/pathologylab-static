@@ -9,7 +9,7 @@ weight: 3
 <div class="entrybody">
 <p>24-year-old female with a large mediastinal mass, cervical lymphadenopathy, and "B" symptoms (fever, fatigue, weight loss).<br clear="all"></p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2003.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_hemepath3.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideheme_path_03/" target="_blank"><img alt="" src="/assets/images/slide_hemepath3.jpg" width="170" height="142" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideheme_path_03/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

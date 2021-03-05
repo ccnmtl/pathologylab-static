@@ -11,7 +11,7 @@ weight: 1
 
 <p>This 54 year old woman underwent an orthotopic liver transplant for autoimmune chronic hepatitis with cirrhosis. Her liver disease dated back three years when she presented with fatigue and abnormal bleeding. At that time her blood tests showed elevated serum aminotransferases<span class="caps">AST</span>(aspartate aminotransferase) and<span class="caps">ALT</span>(alanine aminotransferase) of 234 U/L and 303 U/L (both normal levels are &lt;40). Her total serum bilirubin was 5.6 mg/dl (normal &lt;1.0) and her albumin was low at 3.0 g/dl (normal &gt;3.5). Her serum alkaline phosphatase was normal at 36 U/L (normal &lt;110). After a comprehensive workup including serologic exclusion of chronic hepatitis B and C, as well as any history of possible chronic medication-related liver injury, a panel of autoantibodies was obtained and a striking elevation of serum anti-nuclear antibody of 1:1280 was found. A liver biopsy showed chronic hepatitis with moderate activity and developing cirrhosis.</p>
 
-<div class="thumbnail"><a href="http://virtualslides.cumc.columbia.edu/3472.svs/view.apml?" target="_blank"><img alt="" src="/assets/images/slide_3472.jpg" width="170" height="126" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/3472.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slide3472/" target="_blank"><img alt="" src="/assets/images/slide_3472.jpg" width="170" height="126" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slide3472/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 
