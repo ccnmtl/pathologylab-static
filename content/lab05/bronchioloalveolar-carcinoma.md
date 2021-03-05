@@ -11,7 +11,7 @@ weight: 3
 
 <p>A 58-year-old woman presented with a cough for 5 months and a patchy, diffuse opacity to the right lower lobe. A diagnostic bronchoscopy was performed which demonstrated bronchoaleolar (bronchiolalveolar) carcinoma, and a right lower lobe resection was undertaken.<br clear="all"></p>
 
-<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideLung_Path_03/" target="_blank"><img alt="" src="/assets/images/slide_lungpath03.jpg" width="170" height="141" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideLung_Path_03/" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slidelung_path_03/" target="_blank"><img alt="" src="/assets/images/slide_lungpath03.jpg" width="170" height="141" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slidelung_path_03/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

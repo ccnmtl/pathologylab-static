@@ -9,7 +9,7 @@ weight: 5
 <div class="entrybody">
 <p>A 70 year old man experienced bright red blood per rectum and was found to have iron deficiency anemia. He underwent colonoscopy that revealed a large, fungating, friable mass in the sigmoid colon. The patient underwent a sigmoid colectomy.<br clear="all"></p>
 
-<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideGI_Path_05/" target="_blank"><img alt="" src="/assets/images/slide_GIpath05.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideGI_Path_05/" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slidegi_path_05/" target="_blank"><img alt="" src="/assets/images/slide_GIpath05.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slidegi_path_05/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

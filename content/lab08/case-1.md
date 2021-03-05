@@ -9,7 +9,7 @@ weight: 1
 <div class="entrybody">
 <p>A 30-year-old African-American male presents with full nephrotic syndrome including a 24-hour urine protein of 8.0 g/day, serum albumin 2.3 g/dL, and peripheral edema.<br clear="all"></p>
 
-<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideRenal_Path_01/" target="_blank"><img alt="" src="/assets/images/slide_renal_case1.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideRenal_Path_01/" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/sliderenal_path_01/" target="_blank"><img alt="" src="/assets/images/slide_renal_case1.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/sliderenal_path_01/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Questions</h2>
 

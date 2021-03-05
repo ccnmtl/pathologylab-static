@@ -7,7 +7,7 @@ lab_topic_name: "lab06"
 weight: 5
 ---
 <div class="entrybody">
-<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_05/" target="_blank"><img alt="" src="/assets/images/slide_liverpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_05/" target="_blank">Open with WebViewer</a></div><div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_04/" target="_blank"><img alt="" src="/assets/images/slide_liverpath04.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideLiver_Path_04/" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideliver_path_05/" target="_blank"><img alt="" src="/assets/images/slide_liverpath05.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="https://pathologylab.ctl.columbia.edu/slides/slideliver_path_05/" target="_blank">Open with WebViewer</a></div><div class="thumbnail"><a href="https://pathologylab.ctl.columbia.edu/slides/slideliver_path_04/" target="_blank"><img alt="" src="/assets/images/slide_liverpath04.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://pathologylab.ctl.columbia.edu/slides/slideliver_path_04/" target="_blank">Open with WebViewer</a></div>
 
 <p><br clear="all"><br>
 (1 = hematoxylin and eosin, 2 = trichrome)<br>
