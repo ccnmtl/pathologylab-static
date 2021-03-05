@@ -25,6 +25,8 @@
     <!-- Leaflet and Leaflet Plugins -->
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/leaflet.css" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/Control.MiniMap.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/L.Control.Pan.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/L.Control.Zoomslider.css" />
 
     {{ "<!-- CSS for cookie policy -->" | safeHTML }}
     <link rel="stylesheet" href="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.css" />
@@ -39,6 +41,14 @@
 
 <body itemscope itemtype="http://schema.org/WebPage"{{ if .IsPage }} class="{{ .Type }}"{{ end }}>
 
+    {{ if eq .Type "slides" }}
+       <a class="sr-only sr-only-focusable" href="#map">
+         <div class="container">
+           <span class="skiplink-text">Skip to main content</span>
+         </div>
+       </a>
+    {{ end }}
+    
  <div id="maincontent" role="main" class="container">
 
  {{ partial "navbar.html" . }}
