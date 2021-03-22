@@ -16,7 +16,7 @@ $(document).ready(function() {
     var zoomMax = $('#map').data('zoom');
     var slide_url_format = 'https://ctl-webslides-static-prod.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
 
-    var attribution = '&copy; Example attribution'
+    var attribution = '&copy; Columbia University Department of Pathology and Cell Biology';
 
     L.tileLayer(slide_url_format, {
         minZoom: 2,
