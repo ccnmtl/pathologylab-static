@@ -1,27 +1,26 @@
-<nav id="globalnav" class="navbar navbar-expand-lg navbar-dark" itemscope itemtype="http://schema.org/SiteNavigationElement"> 
+<nav id="globalnav" class="navbar navbar-expand-lg navbar-dark" itemscope itemtype="http://schema.org/SiteNavigationElement">
 
-    <a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> 
-    
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"> 
-        <span class="navbar-toggler-icon"></span> 
-    </button> 
-    
+    <a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    
+
         <ul class="navbar-nav mr-auto mr-auto mt-2 mt-lg-0">
         <li class='nav-item{{ if .IsNode }}{{ if eq .Title "Overview" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/"><span itemprop="name">Overview</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "tutorial" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if eq .Type "lab_activity" }} active {{ else if eq .Type "lab_topic" }} active {{ else if eq .Title "Laboratory Topics" }} active{{ end }}'> <a class="nav-link" itemprop="url" href="/lab_index/"><span itemprop="name">Topics</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "resources" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if eq .File.BaseFileName "histological_techniques" }} active {{ else if in .URL "histological_techniques"}} active{{ end }}'> <a class="nav-link" itemprop="url" href="/histological_techniques/"><span itemprop="name">Techniques</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "microscope" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/microscope/"><span itemprop="name">Microscope</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "slide_index" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/slide_index/"><span itemprop="name">Slides</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
-        <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "help" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/help/"><span itemprop="name">Help</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/about/"><span itemprop="name">About</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "search" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/search/"><span itemprop="name">Search</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         </ul>
-    
-    
+
+
     </div>
 
-</nav> 
+</nav>
 
 <!-- / .navbar container -->
