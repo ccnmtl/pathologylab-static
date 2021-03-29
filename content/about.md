@@ -25,6 +25,7 @@ Ashley Kingon</p>
 
 <p><b>Web Site Development</b><br>
 Nick Buonincontri<br>
-Marc Raymond</p>
+Marc Raymond<br>
+Natalia Dittren</p>
 
 </div>
