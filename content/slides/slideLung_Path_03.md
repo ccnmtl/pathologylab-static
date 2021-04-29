@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Lung_Path_03
 zoomMax: 9
+slideTitle: Bronchioloalveolar Carcinoma
 ---

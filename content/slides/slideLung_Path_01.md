@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Lung_Path_01
 zoomMax: 10
+slideTitle: Sarcoidosis with Interstitial Lung disease and Hilar Lymphadenopathy
 ---

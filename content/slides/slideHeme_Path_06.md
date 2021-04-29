@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Heme_Path_06
 zoomMax: 9
+slideTitle: Multiple Myeloma
 ---

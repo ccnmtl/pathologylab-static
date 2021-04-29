@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3471
 zoomMax: 9
+slideTitle: Hepatic Infarcts due to Hepatic Artery Thrombosis (coagulative necrosis)
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Lung_Path_02
 zoomMax: 9
+slideTitle: Emphysema
 ---

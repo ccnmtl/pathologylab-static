@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3477
 zoomMax: 9
+slideTitle: Coronary Atherosclerosis
 ---

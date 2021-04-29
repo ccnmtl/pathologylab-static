@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 6843
 zoomMax: 9
+slideTitle: Endocarditis
 ---

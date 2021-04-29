@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: GI_Path_04
 zoomMax: 9
+slideTitle: Adenoma (Colon)
 ---

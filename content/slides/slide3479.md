@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3479
 zoomMax: 9
+slideTitle: Healed Myocardial Infarction
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Heme_Path_07
 zoomMax: 8
+slideTitle: Normal blood smear
 ---
