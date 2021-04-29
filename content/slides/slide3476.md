@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3476
 zoomMax: 9
+slideTitle: Gastric Tumor - Intraperitoneal Metastases
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Lung_Path_04
 zoomMax: 10
+slideTitle: Tuberculous pneumonitis and Lymphadenitis
 ---

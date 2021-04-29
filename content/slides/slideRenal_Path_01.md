@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Renal_Path_01
 zoomMax: 8
+slideTitle: Case 1
 ---

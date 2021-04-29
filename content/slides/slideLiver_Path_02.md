@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Liver_Path_02
 zoomMax: 9
+slideTitle: Chronic hepatitis C with mild activity and cirrhosis
 ---

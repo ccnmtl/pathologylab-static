@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Heme_Path_02
 zoomMax: 10
+slideTitle: Follicular Lymphoma
 ---

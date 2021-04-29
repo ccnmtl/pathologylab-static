@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3481
 zoomMax: 9
+slideTitle: Lung-Pneumonectomy
 ---

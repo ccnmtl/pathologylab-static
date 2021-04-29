@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: GI_Path_01
 zoomMax: 9
+slideTitle: Ulcerative Colitis (Colon)
 ---

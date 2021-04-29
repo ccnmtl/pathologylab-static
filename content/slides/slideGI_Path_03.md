@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: GI_Path_03
 zoomMax: 9
+slideTitle: Linitis Plastica (Stomach with mucicarmine stain)
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Heme_Path_01
 zoomMax: 9
+slideTitle: Reactive Lymph Node
 ---

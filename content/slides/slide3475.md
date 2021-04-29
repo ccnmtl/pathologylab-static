@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3475
 zoomMax: 9
+slideTitle: Myocarditis
 ---

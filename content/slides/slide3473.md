@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3473
 zoomMax: 9
+slideTitle: Ovarian Tumor
 ---

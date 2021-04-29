@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Heart_Path_01
 zoomMax: 9
+slideTitle: Atherosclerosis of Right Coronary Artery
 ---

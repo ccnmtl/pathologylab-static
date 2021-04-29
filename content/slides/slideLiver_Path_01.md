@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Liver_Path_01
 zoomMax: 9
+slideTitle: Chronic hepatitis B with minimal activity and no fibrosis
 ---

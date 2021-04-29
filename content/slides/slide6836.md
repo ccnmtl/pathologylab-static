@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 6836
 zoomMax: 9
+slideTitle: Amyloidosis
 ---

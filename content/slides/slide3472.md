@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3472
 zoomMax: 9
+slideTitle: Liver 2
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 3480
 zoomMax: 9
+slideTitle: Acute Myocardial Infarction
 ---

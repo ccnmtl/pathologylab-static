@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Heme_Path_03
 zoomMax: 9
+slideTitle: Hodgkin Lymphoma
 ---

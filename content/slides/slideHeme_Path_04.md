@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: Heme_Path_04
 zoomMax: 9
+slideTitle: All
 ---
