@@ -19,8 +19,8 @@ $(document).ready(function() {
     var attribution = '&copy; Columbia University Department of Pathology and Cell Biology';
 
     L.tileLayer(slide_url_format, {
-        minZoom: 2,
-        maxZoom:zoomMax,
+        minZoom: 1,
+        maxZoom: zoomMax,
         attribution: attribution
     }).addTo(map);
 
@@ -29,7 +29,7 @@ $(document).ready(function() {
 
 		var text = L.DomUtil.create('div');
 		text.id = "info_text";
-		text.innerHTML = "Magnification: Fit"
+		text.innerHTML = "Fit to Screen"
 		return text;
 		},
 
@@ -63,6 +63,7 @@ $(document).ready(function() {
         if (slideId === 'Heme_Path_04' || slideId === 'Heme_Path_05' || slideId === 'Heme_Path_07') {
             if (zoomMax === 8) {
                 var zoomLevel8 = {
+                    1: 'Magnification: 12x',
                     2: 'Magnification: 25x',
                     3: 'Magnification: 40x',
                     4: 'Magnification: 50x',
@@ -75,6 +76,7 @@ $(document).ready(function() {
             }
             else if (zoomMax === 9) {
                 var zoomLevel9 = {
+                    1: 'Magnification: 5x',
                     2: 'Magnification: 10x',
                     3: 'Magnification: 20x',
                     4: 'Magnification: 35x',
@@ -89,6 +91,7 @@ $(document).ready(function() {
         } else {
             if (zoomMax === 8) {
                 var zoomLevel8 = {
+                    1: 'Magnification: 5x',
                     2: 'Magnification: 10x',
                     3: 'Magnification: 15x',
                     4: 'Magnification: 20x',
@@ -101,6 +104,7 @@ $(document).ready(function() {
             }
             else if (zoomMax === 9) {
                 var zoomLevel9 = {
+                    1: 'Magnification: 4x',
                     2: 'Magnification: 9x',
                     3: 'Magnification: 14x',
                     4: 'Magnification: 18x',
@@ -114,6 +118,7 @@ $(document).ready(function() {
             }
             else if (zoomMax === 10) {
                 var zoomLevel10 = {
+                    1: 'Magnification: 4x',
                     2: 'Magnification: 8x',
                     3: 'Magnification: 12x',
                     4: 'Magnification: 16x',
