@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "eslint": "~8.28.0",
+    "eslint": "~8.29.0",
     "eslint-plugin-security": "^1.4.0",
     "node-sass": "^8.0.0",
     "nodemon": "^2.0.4",
