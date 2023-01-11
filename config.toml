@@ -2,7 +2,7 @@ baseURL = "https://pathologylab.ctl.columbia.edu/"
 languageCode = "en-us"
 title = "Pathology Lab Manual"
 theme = "ctl-pathologylab"
-googleAnalytics = "UA-51144540-16"
+googleAnalytics = "G-WQSHCJCX5Q"
 
 [outputs]
   home = ["HTML","RSS", "JSON"]
