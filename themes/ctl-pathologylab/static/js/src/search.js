@@ -176,6 +176,7 @@ if (typeof require === 'function') {
     }
 
     if (typeof module !== 'undefined') {
+        // eslint-disable-next-line no-undef
         module.exports = { Search: Search };
     }
 })();

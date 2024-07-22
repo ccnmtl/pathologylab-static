@@ -3,7 +3,7 @@
 # Override this variable in your Makefile to use a different hugo
 # version than the default on staging / production. For example:
 #   HUGO=/usr/local/bin/hugo-0.19
-HUGO ?=/usr/local/bin/hugo-0.31.1
+HUGO ?=/usr/local/bin/hugo-0.47.1
 
 S3CMD ?= s3cmd
 PUBLIC ?= public
