@@ -1,6 +1,3 @@
-/* eslint-env jquery */
-/* eslint-env node */
-
 var ITEMS_ON_PAGE = 10;
 
 if (typeof require === 'function') {
