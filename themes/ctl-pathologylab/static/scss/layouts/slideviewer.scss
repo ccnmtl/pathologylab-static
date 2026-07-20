@@ -36,7 +36,7 @@
 }
 #map:focus {
     box-shadow: 0 0 10px rgb(0, 123, 255);
-    outline: 1px solid rgb(0, 123, 255 / 25%) !important;
+    outline: 1px solid rgba(0, 123, 255, 0.25) !important;
 }
 #map:focus .slides-instructions {
     display: block;
